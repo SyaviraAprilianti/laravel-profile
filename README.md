@@ -1,2 +1,0 @@
-# laravel-profile
-laravel
